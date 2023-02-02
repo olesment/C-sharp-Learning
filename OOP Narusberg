@@ -1,0 +1,21 @@
+pärrandamisel alusklassiomadused kranduvad edasi alamklassidele
+
+objekdid pärivad formi omadusi 
+
+nt kui teeme uue objekti fondi sisse, ha formil on text prop sans-serif, siis ka alumisel on ka sans-serif
+
+
+Frame on form formi peal. Teeme frame ja frameile paigutame üksikobjekte. Miugav siis mudida tervet plokki
+Growbox == frame....
+
+igale uuele objektile anna nimi esimese asjana
+
+oops ruulib sündmuste töötlemine
+
+Fõndmus on seotud funktisooniga V alamprogtsmmiga
+
+Nupuvajutamine
+
+sündmusega seostamine on topeltklikk ja see vs teeb objektile peasündmuse
+
+string on yksiksymbolitega massiiv
